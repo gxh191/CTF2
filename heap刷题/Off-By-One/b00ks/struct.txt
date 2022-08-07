@@ -1,0 +1,4 @@
+struct_ptr结构
+
+id		name_ptr
+des_ptr		des_size
